@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winCalcA", "winCalcA.csproj", "{EF51430D-DEA2-4C3C-9BBD-59FECED585A5}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "Rechner", "..\Rechner\Rechner.modelproj", "{341D545C-88FA-4F9A-B07E-36B5BCE4501E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF51430D-DEA2-4C3C-9BBD-59FECED585A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF51430D-DEA2-4C3C-9BBD-59FECED585A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF51430D-DEA2-4C3C-9BBD-59FECED585A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF51430D-DEA2-4C3C-9BBD-59FECED585A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{341D545C-88FA-4F9A-B07E-36B5BCE4501E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341D545C-88FA-4F9A-B07E-36B5BCE4501E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341D545C-88FA-4F9A-B07E-36B5BCE4501E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341D545C-88FA-4F9A-B07E-36B5BCE4501E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\User\Documents\Studium\Erstes Semester\magischesQuadratA\bin\Debug\magischesQuadrat.exe.config
+C:\Users\User\Documents\Studium\Erstes Semester\magischesQuadratA\bin\Debug\magischesQuadrat.exe
+C:\Users\User\Documents\Studium\Erstes Semester\magischesQuadratA\bin\Debug\magischesQuadrat.pdb
+C:\Users\User\Documents\Studium\Erstes Semester\magischesQuadratA\obj\Debug\magischesQuadratA.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Studium\Erstes Semester\magischesQuadratA\obj\Debug\magischesQuadrat.frmMainA.resources
+C:\Users\User\Documents\Studium\Erstes Semester\magischesQuadratA\obj\Debug\magischesQuadratA.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Studium\Erstes Semester\magischesQuadratA\obj\Debug\magischesQuadrat.exe
+C:\Users\User\Documents\Studium\Erstes Semester\magischesQuadratA\obj\Debug\magischesQuadrat.pdb
+F:\Users\User\Documents\Studium\1. Semester\magischesQuadratA\bin\Debug\magischesQuadrat.exe.config
+F:\Users\User\Documents\Studium\1. Semester\magischesQuadratA\bin\Debug\magischesQuadrat.exe
+F:\Users\User\Documents\Studium\1. Semester\magischesQuadratA\bin\Debug\magischesQuadrat.pdb
+F:\Users\User\Documents\Studium\1. Semester\magischesQuadratA\obj\Debug\magischesQuadratA.csprojAssemblyReference.cache
+F:\Users\User\Documents\Studium\1. Semester\magischesQuadratA\obj\Debug\magischesQuadrat.frmMainA.resources
+F:\Users\User\Documents\Studium\1. Semester\magischesQuadratA\obj\Debug\magischesQuadratA.csproj.GenerateResource.cache
+F:\Users\User\Documents\Studium\1. Semester\magischesQuadratA\obj\Debug\magischesQuadratA.csproj.CoreCompileInputs.cache
+F:\Users\User\Documents\Studium\1. Semester\magischesQuadratA\obj\Debug\magischesQuadrat.exe
+F:\Users\User\Documents\Studium\1. Semester\magischesQuadratA\obj\Debug\magischesQuadrat.pdb

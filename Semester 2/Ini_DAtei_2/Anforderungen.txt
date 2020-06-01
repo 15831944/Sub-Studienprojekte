@@ -1,0 +1,4 @@
+-Die Software von Klienten soll sich bei Start des Computers oder von ihm selbst prüfen ob Veränderungen
+ gibt und die entsprechend vornehmen
+-Jede BenERk zusammen mit Pass durch ein ID ansprechbar
+-Ist das wichtig das bei jeder Änderung in Form der File Inhalt mitgeändert wird??

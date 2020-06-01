@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Studium\Clients_Server\Clients_Server\bin\Debug\Clients_Server.exe.config
+F:\Users\User\Documents\Studium\Clients_Server\Clients_Server\bin\Debug\Clients_Server.exe.config
+F:\Users\User\Documents\Studium\Clients_Server\Clients_Server\bin\Debug\Clients_Server.exe
+F:\Users\User\Documents\Studium\Clients_Server\Clients_Server\bin\Debug\Clients_Server.pdb
+F:\Users\User\Documents\Studium\Clients_Server\Clients_Server\obj\Debug\Clients_Server.csprojAssemblyReference.cache
+F:\Users\User\Documents\Studium\Clients_Server\Clients_Server\obj\Debug\Clients_Server.Properties.Resources.resources
+F:\Users\User\Documents\Studium\Clients_Server\Clients_Server\obj\Debug\Clients_Server.csproj.GenerateResource.cache
+F:\Users\User\Documents\Studium\Clients_Server\Clients_Server\obj\Debug\Clients_Server.csproj.CoreCompileInputs.cache
+F:\Users\User\Documents\Studium\Clients_Server\Clients_Server\obj\Debug\Clients_Server.exe
+F:\Users\User\Documents\Studium\Clients_Server\Clients_Server\obj\Debug\Clients_Server.pdb

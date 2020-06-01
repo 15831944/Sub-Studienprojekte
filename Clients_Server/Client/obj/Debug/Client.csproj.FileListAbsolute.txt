@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Studium\Clients_Server\Client\bin\Debug\Client.exe.config
+C:\Users\User\Documents\Studium\Clients_Server\Client\bin\Debug\Client.exe
+C:\Users\User\Documents\Studium\Clients_Server\Client\bin\Debug\Client.pdb
+C:\Users\User\Documents\Studium\Clients_Server\Client\obj\Debug\Client.exe
+C:\Users\User\Documents\Studium\Clients_Server\Client\obj\Debug\Client.pdb
+F:\Users\User\Documents\Studium\Clients_Server\Client\bin\Debug\Client.exe.config
+F:\Users\User\Documents\Studium\Clients_Server\Client\bin\Debug\Client.exe
+F:\Users\User\Documents\Studium\Clients_Server\Client\bin\Debug\Client.pdb
+F:\Users\User\Documents\Studium\Clients_Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\Users\User\Documents\Studium\Clients_Server\Client\obj\Debug\Client.exe
+F:\Users\User\Documents\Studium\Clients_Server\Client\obj\Debug\Client.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Ini_DAtei_2\Ini\bin\Debug\Ini.dll
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Ini_DAtei_2\Ini\bin\Debug\Ini.pdb
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Ini_DAtei_2\Ini\obj\Debug\Ini.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Ini_DAtei_2\Ini\obj\Debug\Ini.dll
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Ini_DAtei_2\Ini\obj\Debug\Ini.pdb
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Ini_DAtei_2\Ini\obj\Debug\Ini_DAtei.Bearbeiten_Sektion.resources
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Ini_DAtei_2\Ini\obj\Debug\Ini_DAtei.Bearbeitung_Hinzufuegen.resources
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Ini_DAtei_2\Ini\obj\Debug\Ini.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Ini_DAtei_2\Ini\obj\Debug\Ini.Icon.resources

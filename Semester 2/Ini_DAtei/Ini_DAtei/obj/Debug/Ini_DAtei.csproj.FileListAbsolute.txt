@@ -1,0 +1,18 @@
+\\homedrive.htw-berlin.de\s0554918\Eigene Dateien\Visual Studio 2015\Projects\Ini_DAtei\Ini_DAtei\bin\Debug\Ini_DAtei.exe.config
+\\homedrive.htw-berlin.de\s0554918\Eigene Dateien\Visual Studio 2015\Projects\Ini_DAtei\Ini_DAtei\bin\Debug\Ini_DAtei.exe
+\\homedrive.htw-berlin.de\s0554918\Eigene Dateien\Visual Studio 2015\Projects\Ini_DAtei\Ini_DAtei\bin\Debug\Ini_DAtei.pdb
+\\homedrive.htw-berlin.de\s0554918\Eigene Dateien\Visual Studio 2015\Projects\Ini_DAtei\Ini_DAtei\obj\Debug\Ini_DAtei.csprojResolveAssemblyReference.cache
+\\homedrive.htw-berlin.de\s0554918\Eigene Dateien\Visual Studio 2015\Projects\Ini_DAtei\Ini_DAtei\obj\Debug\Ini_DAtei.Form1.resources
+\\homedrive.htw-berlin.de\s0554918\Eigene Dateien\Visual Studio 2015\Projects\Ini_DAtei\Ini_DAtei\obj\Debug\Ini_DAtei.Properties.Resources.resources
+\\homedrive.htw-berlin.de\s0554918\Eigene Dateien\Visual Studio 2015\Projects\Ini_DAtei\Ini_DAtei\obj\Debug\Ini_DAtei.csproj.GenerateResource.Cache
+\\homedrive.htw-berlin.de\s0554918\Eigene Dateien\Visual Studio 2015\Projects\Ini_DAtei\Ini_DAtei\obj\Debug\Ini_DAtei.exe
+\\homedrive.htw-berlin.de\s0554918\Eigene Dateien\Visual Studio 2015\Projects\Ini_DAtei\Ini_DAtei\obj\Debug\Ini_DAtei.pdb
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Ini_DAtei\Ini_DAtei\bin\Debug\Ini_DAtei.exe.config
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Ini_DAtei\Ini_DAtei\obj\Debug\Ini_DAtei.exe
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Ini_DAtei\Ini_DAtei\obj\Debug\Ini_DAtei.pdb
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Ini_DAtei\Ini_DAtei\bin\Debug\Ini_DAtei.exe
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Ini_DAtei\Ini_DAtei\bin\Debug\Ini_DAtei.pdb
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Ini_DAtei\Ini_DAtei\obj\Debug\Ini_DAtei.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Ini_DAtei\Ini_DAtei\obj\Debug\Ini_DAtei.Form1.resources
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Ini_DAtei\Ini_DAtei\obj\Debug\Ini_DAtei.Properties.Resources.resources
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Ini_DAtei\Ini_DAtei\obj\Debug\Ini_DAtei.csproj.GenerateResource.Cache

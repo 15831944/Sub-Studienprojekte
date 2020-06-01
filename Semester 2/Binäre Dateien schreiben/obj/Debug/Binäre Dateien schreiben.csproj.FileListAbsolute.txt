@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Studium\Zweites Semester\Binäre Dateien schreiben\bin\Debug\hitchhiker.xml
+C:\Users\User\Documents\Studium\Zweites Semester\Binäre Dateien schreiben\bin\Debug\Binäre Dateien schreiben.exe
+C:\Users\User\Documents\Studium\Zweites Semester\Binäre Dateien schreiben\bin\Debug\Binäre Dateien schreiben.pdb
+C:\Users\User\Documents\Studium\Zweites Semester\Binäre Dateien schreiben\obj\Debug\Binäre Dateien schreiben.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Studium\Zweites Semester\Binäre Dateien schreiben\obj\Debug\Binäre Dateien schreiben.exe
+C:\Users\User\Documents\Studium\Zweites Semester\Binäre Dateien schreiben\obj\Debug\Binäre Dateien schreiben.pdb

@@ -1,0 +1,15 @@
+\\homedrive.htw-berlin.de\s0551018\eigene dateien\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Debug\MyLib.dll
+\\homedrive.htw-berlin.de\s0551018\eigene dateien\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Debug\MyLib.pdb
+\\homedrive.htw-berlin.de\s0551018\eigene dateien\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+\\homedrive.htw-berlin.de\s0551018\eigene dateien\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\MyLib.dll
+\\homedrive.htw-berlin.de\s0551018\eigene dateien\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\MyLib.pdb
+H:\Eigene Dateien\Visual Studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Debug\MyLib.dll
+H:\Eigene Dateien\Visual Studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Debug\MyLib.pdb
+H:\Eigene Dateien\Visual Studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+H:\Eigene Dateien\Visual Studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\MyLib.dll
+H:\Eigene Dateien\Visual Studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\MyLib.pdb
+H:\Programmierung 1\WindowsFormsApplication1\ClassLibrary1\bin\Debug\MyLib.dll
+H:\Programmierung 1\WindowsFormsApplication1\ClassLibrary1\bin\Debug\MyLib.pdb
+H:\Programmierung 1\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+H:\Programmierung 1\WindowsFormsApplication1\ClassLibrary1\obj\Debug\MyLib.dll
+H:\Programmierung 1\WindowsFormsApplication1\ClassLibrary1\obj\Debug\MyLib.pdb

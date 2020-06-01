@@ -1,0 +1,20 @@
+E:\Vorlesungen\Programmierung\Server\Server\bin\Debug\Server.exe.config
+E:\Vorlesungen\Programmierung\Server\Server\bin\Debug\Server.exe
+E:\Vorlesungen\Programmierung\Server\Server\bin\Debug\Server.pdb
+E:\Vorlesungen\Programmierung\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Vorlesungen\Programmierung\Server\Server\obj\Debug\Server.Form1.resources
+E:\Vorlesungen\Programmierung\Server\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Vorlesungen\Programmierung\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Vorlesungen\Programmierung\Server\Server\obj\Debug\Server.exe
+E:\Vorlesungen\Programmierung\Server\Server\obj\Debug\Server.pdb
+E:\Vorlesungen\Programmierung\Server\Server\obj\Debug\Server.Sever_Kunde_Diskussion.resources
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Server\Server\bin\Debug\Server.exe.config
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Server\Server\obj\Debug\Server.exe
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Server\Server\obj\Debug\Server.pdb
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Server\Server\bin\Debug\Server.exe
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Server\Server\bin\Debug\Server.pdb
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Server\Server\obj\Debug\Server.Sever_Kunde_Diskussion.resources
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache

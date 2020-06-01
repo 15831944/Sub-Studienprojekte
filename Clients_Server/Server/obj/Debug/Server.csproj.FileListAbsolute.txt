@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Studium\Clients_Server\Server\bin\Debug\Server.exe.config
+C:\Users\User\Documents\Studium\Clients_Server\Server\bin\Debug\Server.exe
+C:\Users\User\Documents\Studium\Clients_Server\Server\bin\Debug\Server.pdb
+C:\Users\User\Documents\Studium\Clients_Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Studium\Clients_Server\Server\obj\Debug\Server.exe
+C:\Users\User\Documents\Studium\Clients_Server\Server\obj\Debug\Server.pdb
+F:\Users\User\Documents\Studium\Clients_Server\Server\bin\Debug\Server.exe.config
+F:\Users\User\Documents\Studium\Clients_Server\Server\bin\Debug\Server.exe
+F:\Users\User\Documents\Studium\Clients_Server\Server\bin\Debug\Server.pdb
+F:\Users\User\Documents\Studium\Clients_Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+F:\Users\User\Documents\Studium\Clients_Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\Users\User\Documents\Studium\Clients_Server\Server\obj\Debug\Server.exe
+F:\Users\User\Documents\Studium\Clients_Server\Server\obj\Debug\Server.pdb

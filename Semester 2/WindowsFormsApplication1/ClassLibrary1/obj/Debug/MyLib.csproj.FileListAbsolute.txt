@@ -1,0 +1,12 @@
+H:\Programmierung 1\WindowsFormsApplication1\ClassLibrary1\bin\Debug\MyLib.dll
+H:\Programmierung 1\WindowsFormsApplication1\ClassLibrary1\bin\Debug\MyLib.pdb
+H:\Programmierung 1\WindowsFormsApplication1\ClassLibrary1\obj\Debug\MyLib.csprojResolveAssemblyReference.cache
+H:\Programmierung 1\WindowsFormsApplication1\ClassLibrary1\obj\Debug\MyLib.csproj.ResolveComReference.cache
+H:\Programmierung 1\WindowsFormsApplication1\ClassLibrary1\obj\Debug\MyLib.dll
+H:\Programmierung 1\WindowsFormsApplication1\ClassLibrary1\obj\Debug\MyLib.pdb
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\WindowsFormsApplication1\ClassLibrary1\bin\Debug\MyLib.dll
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\WindowsFormsApplication1\ClassLibrary1\bin\Debug\MyLib.pdb
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\WindowsFormsApplication1\ClassLibrary1\obj\Debug\MyLib.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\WindowsFormsApplication1\ClassLibrary1\obj\Debug\MyLib.csproj.ResolveComReference.cache
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\WindowsFormsApplication1\ClassLibrary1\obj\Debug\MyLib.dll
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\WindowsFormsApplication1\ClassLibrary1\obj\Debug\MyLib.pdb

@@ -1,0 +1,11 @@
+H:\svn\Aufgaben\private Beispiele\client-server\client\bin\Debug\client.exe.config
+H:\svn\Aufgaben\private Beispiele\client-server\client\bin\Debug\client.exe
+H:\svn\Aufgaben\private Beispiele\client-server\client\bin\Debug\client.pdb
+H:\svn\Aufgaben\private Beispiele\client-server\client\obj\Debug\client.exe
+H:\svn\Aufgaben\private Beispiele\client-server\client\obj\Debug\client.pdb
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\client-server\client\bin\Debug\client.exe.config
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\client-server\client\obj\Debug\client.exe
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\client-server\client\obj\Debug\client.pdb
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\client-server\client\bin\Debug\client.exe
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\client-server\client\bin\Debug\client.pdb
+C:\Users\User\Documents\Studium\Zweites Semester\Programmierung2\client-server\client\obj\Debug\client.csprojResolveAssemblyReference.cache

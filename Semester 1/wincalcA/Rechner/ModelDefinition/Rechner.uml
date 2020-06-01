@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/SimpleShapesModel" xmlns:dm9="http://schemas.microsoft.com/VisualStudio/TeamArchitect/ActivityDesigner"
+  dslVersion="1.0.0.0"
+  Id="db460aa9-2ac6-41e4-80fe-b2389b9dbd66"
+  name="Rechner" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <ownedCommentsInternal>
+    <comment
+      Id="e376a38b-82bb-4119-950c-984af3945456">
+      <body>Keypress- und Keydown-Event, da bestimmte Kombinationen in einem gemeinsamen Eventhandler aufwendiger sind.</body>
+      <annotatedElements>
+        <opaqueActionMoniker
+          Id="124f9f72-24dc-49b7-8d80-b2df57f9bfe3"
+          LastKnownName="Taste drücken"
+          LastKnownLocation="Rechner.uml" />
+      </annotatedElements>
+    </comment>
+  </ownedCommentsInternal>
+  <profileInstances>
+    <packageHasProfileInstances
+      Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
+      <profileInstance
+        Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791"
+        name="StandardProfileL2" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="29349502-908c-4fda-9054-c48619c59ed0">
+      <profileInstance
+        Id="532ea607-fb19-44b8-8502-3351b05452be"
+        name="StandardProfileL3" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <activity
+        Id="b49f1c9d-0e93-4037-a5ab-283eae7e485b"
+        name="rechnen"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false"
+        isReentrant="false"
+        isReadOnly="false"
+        isSingleExecution="false">
+        <nodes>
+          <initialNode
+            Id="751bfe60-4151-4a25-81ca-2c276f796cf5"
+            name="Initial1"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="1a90825d-cd67-44a7-bf49-a2d12c25b7d7"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="1568c28c-1f98-4279-ac6e-d36de186b0b0"
+                  LastKnownName="warten auf Taste"
+                  LastKnownLocation="Rechner.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </initialNode>
+          <opaqueAction
+            Id="124f9f72-24dc-49b7-8d80-b2df57f9bfe3"
+            name="Taste drücken"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="2695d66f-95e6-4530-a25b-6d8c65374e6e"
+                isLeaf="false">
+                <decisionNodeMoniker
+                  Id="b9ce0db3-1aac-4939-a8f8-f699bbe39a6a"
+                  LastKnownName="Decision1"
+                  LastKnownLocation="Rechner.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <decisionNode
+            Id="b9ce0db3-1aac-4939-a8f8-f699bbe39a6a"
+            name="Decision1"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="504a61b1-da7c-4a1b-be3e-27bf34c82166"
+                guard="Entf oder Backspace gedrückt"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="32d09348-e4a8-4b0d-bc67-2c5eb9cdbdbe"
+                  LastKnownName="setText (löschangabe)"
+                  LastKnownLocation="Rechner.uml" />
+              </controlFlow>
+              <controlFlow
+                Id="4cd2b083-023c-4a75-8f66-3ce567052710"
+                guard="+ - * / gedrückt"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="9d1ba9a8-d574-46bf-831e-3b93d7989080"
+                  LastKnownName="setOperator"
+                  LastKnownLocation="Rechner.uml" />
+              </controlFlow>
+              <controlFlow
+                Id="21f10ac2-6e44-49a9-98b1-68b54db85848"
+                guard="= gedrückt"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="9dbd8933-a160-4e2f-8584-a35a07db5297"
+                  LastKnownName="doEquals"
+                  LastKnownLocation="Rechner.uml" />
+              </controlFlow>
+              <controlFlow
+                Id="bad93f40-124f-4d4c-b59b-b92c1bbe37ea"
+                guard="Zahl gedrückt"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="509da894-9b21-41f4-bce7-1b1cbc13a637"
+                  LastKnownName="setText"
+                  LastKnownLocation="Rechner.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </decisionNode>
+          <opaqueAction
+            Id="1568c28c-1f98-4279-ac6e-d36de186b0b0"
+            name="warten auf Taste"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="b16d87e2-b75b-4db1-bebd-40e73a6bc41e"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="124f9f72-24dc-49b7-8d80-b2df57f9bfe3"
+                  LastKnownName="Taste drücken"
+                  LastKnownLocation="Rechner.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction
+            Id="9d1ba9a8-d574-46bf-831e-3b93d7989080"
+            name="setOperator"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="fc194d1d-f457-46f9-9aba-3657b15b92a2"
+                isLeaf="false">
+                <mergeNodeMoniker
+                  Id="cc405e7b-6eb2-476f-a9aa-3233cdf766ec"
+                  LastKnownName="Merge2"
+                  LastKnownLocation="Rechner.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction
+            Id="509da894-9b21-41f4-bce7-1b1cbc13a637"
+            name="setText"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="3a4fe48b-6a5c-4722-b82c-486990c609a2"
+                isLeaf="false">
+                <mergeNodeMoniker
+                  Id="cc405e7b-6eb2-476f-a9aa-3233cdf766ec"
+                  LastKnownName="Merge2"
+                  LastKnownLocation="Rechner.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <opaqueAction
+            Id="32d09348-e4a8-4b0d-bc67-2c5eb9cdbdbe"
+            name="setText (löschangabe)"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="8437b5b4-41f1-440e-b576-49441a4ccf60"
+                isLeaf="false">
+                <mergeNodeMoniker
+                  Id="cc405e7b-6eb2-476f-a9aa-3233cdf766ec"
+                  LastKnownName="Merge2"
+                  LastKnownLocation="Rechner.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+          <mergeNode
+            Id="cc405e7b-6eb2-476f-a9aa-3233cdf766ec"
+            name="Merge2"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="9891e2bc-5cee-42bc-a95e-f8b531c1801c"
+                isLeaf="false">
+                <opaqueActionMoniker
+                  Id="1568c28c-1f98-4279-ac6e-d36de186b0b0"
+                  LastKnownName="warten auf Taste"
+                  LastKnownLocation="Rechner.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </mergeNode>
+          <opaqueAction
+            Id="9dbd8933-a160-4e2f-8584-a35a07db5297"
+            name="doEquals"
+            isLeaf="false">
+            <flowNodeTargets>
+              <controlFlow
+                Id="edd1dd04-3ae4-4d17-bff8-c9f5d925db33"
+                isLeaf="false">
+                <mergeNodeMoniker
+                  Id="cc405e7b-6eb2-476f-a9aa-3233cdf766ec"
+                  LastKnownName="Merge2"
+                  LastKnownLocation="Rechner.uml" />
+              </controlFlow>
+            </flowNodeTargets>
+          </opaqueAction>
+        </nodes>
+      </activity>
+    </packageHasNamedElement>
+  </packagedElements>
+  <primitiveType
+    Id="220a3521-e091-4221-bae9-3ef9018e845c"
+    name="Integer"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
+    name="Boolean"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="59259974-6d55-42c6-b7bd-763d77ac8ef9"
+    name="String"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="3ab42e7d-4969-445a-b209-471f5cb8209c"
+    name="UnlimitedNatural"
+    isAbstract="false"
+    isLeaf="false" />
+</modelStoreModel>
